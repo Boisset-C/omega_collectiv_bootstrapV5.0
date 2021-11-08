@@ -1,0 +1,12 @@
+/* Body Styles */
+
+
+/* Hero Styles */
+
+.hero-bg {
+    background-image: url("./assets/hero-bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    max-height: 70vh;
+}
