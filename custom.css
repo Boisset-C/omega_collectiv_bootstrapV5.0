@@ -1,5 +1,7 @@
 /* Body Styles */
-
+a {
+    text-decoration: none;
+}
 
 /* Hero Styles */
 
@@ -8,7 +10,7 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    max-height: 70vh;
+    height: 70vh;
 }
 
 .text-custom-pink {
