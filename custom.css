@@ -29,3 +29,10 @@ a {
 .custom-gray-bg {
     background-color: #f9f9f9;
 }
+
+/* Footer Styles */
+.footer-bg {
+    background: #3A3A3A;
+    border-color: #f9f9f9;
+
+}
