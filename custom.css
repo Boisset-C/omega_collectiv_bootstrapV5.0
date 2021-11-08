@@ -16,3 +16,8 @@ a {
 .text-custom-pink {
     color: #F97EEC;
 }
+
+.text-custom-green {
+   background-color: #61D26D;
+   border-color: #61D26D;
+}
